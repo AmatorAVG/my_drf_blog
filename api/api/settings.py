@@ -192,7 +192,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'amatoravg@gmail.com'
-EMAIL_HOST_PASSWORD = 'dvrigefkcjhfsymx'
+EMAIL_HOST_PASSWORD = 'pass'
 
 REST_FRAMEWORK = {
     'SEARCH_PARAM': 'q'
